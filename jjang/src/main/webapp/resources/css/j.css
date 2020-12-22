@@ -1,0 +1,21 @@
+	html, body {height: 100%; margin: 0px;}
+	
+	.j-width {width: 100%;}
+	
+	.j-height {height: 100%;}
+	
+	.j-left {float: left!important; width: 49%; height:100%;}
+	
+	.j-left.third {float: left!important; width: 32%; height: 100%}
+
+	.j-right {float: right!important; width: 49%!important; height:100%;}
+	
+	.j-right.third {float: right!important; width: 33%!important;height: 100%}
+	
+	.j-orange {background-color: orange!important;}
+	
+	.j-green {background-color: green!important;}
+	
+	.j-darkgray {background-color: darkgray!important;}
+	
+	.j-black {background-color: black!important;}
